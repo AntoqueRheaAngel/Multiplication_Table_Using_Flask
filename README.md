@@ -1,4 +1,4 @@
-# Multiplication_Table_Using_Python_Flask
+# Multiplication_Table
 Make sure that you have flask installed in your PC. 
 
 1. Run script.py
